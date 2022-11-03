@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.header {
+  background-color: #a21caf;
+  color: #f1f5f9;
+  padding: 10px 25px;
+}
+
+.primary-heading {
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+
+/* Specific Styles */
+.charts-container {
+  margin-top: 3.2rem;
+}
+
+.chart-wrapper {
+  padding: 0 1.5rem;
+  height: 100%;
+}
